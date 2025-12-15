@@ -1,0 +1,9 @@
+bash 
+
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+
+# Ignore build folder
+/build/
